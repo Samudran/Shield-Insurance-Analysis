@@ -1,7 +1,7 @@
 # 🛡️ Shield Insurance Analysis – Power BI Internship Project  
 
 📊 **Live Dashboard**: [View Here](https://app.powerbi.com/view?r=eyJrIjoiM2EwNTllOWItM2UzZS00YTM3LTljZmMtNTA2NjlmZDgzODRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-🎥 **Video Presentation**: [Watch Here](https://www.linkedin.com/feed/update/urn:li:activity:7360289646422933505/)  
+🎥 **Video Presentation**: [Watch Here](https://www.linkedin.com/feed/update/urn:li:activity:7374141206093627393/)  
 
 ---
 
